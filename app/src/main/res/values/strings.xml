@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">codeTravel</string>
+    <string name="name">Jardin - Antioquia</string>
+    <string name="texto">La Basílica Menor de La Inmaculada Concepción es una de las iglesia más lindas de Antioquia, está construida en piedra labrada a mano, su estilo es neogótico y ha sido decorada en su interior con arcos recubiertos en oro.</string>
+    <string name="name2">Parque central de Jardín - Antioquia</string>
+    <string name="registrar">Registrar</string>
+    <string name="tiempo">Duración</string>
+    <string name="dias">7 días</string>
+    <string name="title_activity_carousel2">CarouselActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="lugares">Sitios de interes</string>
+
+
+</resources>
